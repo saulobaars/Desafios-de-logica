@@ -3,3 +3,9 @@ Para isso ela mediu quantos passos ela caminha em um metro e quantos metros há 
 Desenvolva um sistema que receba as informações de quantos passos Ane precisa andar para caminhar um metro, 
 quantos metros ela anda e calcule quanto passos ela precisa caminhar até chegar ao Senac.
 '''
+
+distancia = int(input("Qual a distância até o senac em metros?\n"))
+passos = int(input("Quanto equivale 1 metro?\n"))
+percusso = distancia*passos
+
+print(f'Ana precisou dar:{percusso} passos para chegar ao Senac!')
