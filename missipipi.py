@@ -20,7 +20,7 @@ vencedor_eu = 0
 rodada = 0
 contador = 1
 while True:
-    ##aposta = random.randint(1,3)
+    aposta = random.randint(1,3)
     aposta = int (input("Digite um valor de 1 à 3:\n"))
     maquina = random.randint(1,3)
     if (aposta != 1 and aposta != 2 and aposta != 3):

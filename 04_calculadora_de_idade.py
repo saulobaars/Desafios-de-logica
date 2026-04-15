@@ -4,3 +4,4 @@ ano_nascimento = int(input("Informe o ano do seu nascimento:" ))
 idade = 2026 - ano_nascimento
 
 print(f'Você tem: {idade} anos')
+

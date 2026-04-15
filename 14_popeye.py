@@ -20,9 +20,7 @@ while True:
          print(f"O soldado {graduacao}, foi aprovado, tempo excelente!\n")
         
     continuacao = str(input("Deseja continuar?(S/N)\n"))
-    if continuacao != "S":
+    if continuacao != "s":
         break
 
-
-    
             
