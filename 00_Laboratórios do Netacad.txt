@@ -1,0 +1,30 @@
+2.1.5 LAB Trabalhando com a função print()
+2.1.12 LAB A função print() e seus argumentos
+2.1.13 LAB Formatação de saída
+2.2.6 LAB Literais Python - strings
+2.4.7 LAB Variáveis
+2.4.9 LAB Variáveis ‒ um simples conversor
+2.4.10 LAB Operadores e Expressões
+2.5.3 LAB Comentários
+2.6.9 LAB Simples entradas e saídas
+2.6.10 LAB Operadores e Expressões
+2.6.11 LAB Operadores e Expressões – 2
+3.1.6 LAB Variáveis ‒ Perguntas e respostas
+3.1.10 LAB Operadores de comparação e execução condicional
+3.1.11 LAB Essenciais da declaração if-else
+3.1.12 LAB Essenciais da declaração if-elif-else
+3.2.4 LAB Adivinhe o número secreto
+3.2.7 LAB Essenciais do loop for – contando mississippy
+3.2.9 LAB A declaração break – Preso em um loop
+3.2.10 LAB A declaração continue – o Feio Comedor de Vogais
+3.2.11 LAB A declaração continue – o Belo Comedor de Vogais
+3.2.14 LAB Essenciais do loop while
+3.2.15 LAB A hipótese de Collat
+3.4.6 LAB Básico de listas
+3.4.11 LAB O básico de listas ‒ os Beatles
+3.6.6 LAB Operações com listas ‒ básico
+4.3.4 LAB Um ano bissexto: escrevendo suas próprias funções
+4.3.5 LAB Quantos dias: escrevendo e usando suas próprias funções
+4.3.6 LAB Dia do ano: escrevendo e usando funções
+4.3.7 LAB Números primos ‒ como encontrá-los
+4.3.8 LAB Convertendo o consumo de combustível
